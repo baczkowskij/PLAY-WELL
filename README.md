@@ -1,2 +1,2 @@
 # PLAY-WELL!
-PLAY WELL! - Generative, participatory, open source housing design platform.
+PLAY WELL! - Gamified, generative, participatory, open source housing design platform.
